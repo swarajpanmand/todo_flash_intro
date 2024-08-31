@@ -1,1 +1,8 @@
 /node_modules
+/__pycache__
+/.vscode
+/.venv
+
+code_context.txt
+get_code_context.sh
+instruction.txt
